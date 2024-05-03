@@ -1,6 +1,6 @@
 Run: 
 
-yarn install
+```yarn install```
 
 
-ts-node scripts/statistics/getClaims.ts
+```ts-node scripts/statistics/getClaims.ts```
