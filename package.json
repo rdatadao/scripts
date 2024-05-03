@@ -1,0 +1,11 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rdatadao/scripts.git",
+  "author": "Eduard Dumea <ec.dumea@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.12.1"
+  }
+}
